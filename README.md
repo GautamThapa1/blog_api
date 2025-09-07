@@ -7,7 +7,6 @@ It provides endpoints for creating, reading, updating, and deleting blog posts, 
 - User registration & authentication  
 - CRUD operations for blog posts  
 - Permissions for authenticated users  
-- API tested with Postman  
 
 ## Tech Stack
 - Python  
